@@ -1,0 +1,9 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.header {
+  background-attachment: fixed;
+  background-color: blue;
+  line-height: 1ch;
+}
